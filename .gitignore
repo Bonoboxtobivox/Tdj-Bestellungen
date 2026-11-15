@@ -1,0 +1,4 @@
+# Personenbezogene Bestelldaten und Programmheft bleiben lokal
+bestellungen_*.json
+Bestellformular_ZA_*_72616.pdf
+Zusatzangebote_*.pdf
